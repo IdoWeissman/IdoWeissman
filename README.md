@@ -22,7 +22,7 @@ I build production web apps and serverless backends, and I like owning a product
 - ⚙️ Built **4 React apps** and a serverless backend of **~90 Cloud Functions** on Firebase, GCP and AWS
 - 🔐 Led a third-party **penetration test remediation** to zero critical and high findings
 - 🎖️ Before that: Full Stack Developer in the **Israeli Air Force**
-- 🔭 Currently building: **[tripwise]([https://github.com/YOUR-USERNAME/REPO](https://github.com/IdoWeissman/tripwise))** — one line about what it does
+- 🔭 Currently building: **[tripwise](https://github.com/IdoWeissman/tripwise)** — one line about what it does
 - 📍 Israel · Open to Full Stack roles
 
 ---
